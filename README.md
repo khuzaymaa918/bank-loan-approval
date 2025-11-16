@@ -1,6 +1,6 @@
 # 🏦 Bank Loan Approval Predictor  
 An ML web application that estimates the probability if a loan will be approved or not based on applicant details.  
-🚀 Try out the live app here https://<YOUR-USERNAME>-bank-loan-approval.streamlit.app
+🚀 Try out the live app [here](https://mybankloanapproval.streamlit.app/)
 
 ---
 
