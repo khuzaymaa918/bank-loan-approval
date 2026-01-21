@@ -4,6 +4,9 @@ import joblib
 from pathlib import Path
 import json
 
+import sklearn
+st.caption(f"sklearn version: {sklearn.__version__}")
+
 # ---------------- PAGE CONFIG ----------------
 st.set_page_config(page_title="Bank Loan Approval Predictor", page_icon="", layout="centered")
 
