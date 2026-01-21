@@ -4,12 +4,6 @@ import joblib
 from pathlib import Path
 import json
 
-import sklearn, numpy, pandas, joblib, sys
-st.write("Python:", sys.version)
-st.write("sklearn:", sklearn.__version__)
-st.write("numpy:", numpy.__version__)
-st.write("pandas:", pandas.__version__)
-st.write("joblib:", joblib.__version__)
 
 
 # ---------------- PAGE CONFIG ----------------
